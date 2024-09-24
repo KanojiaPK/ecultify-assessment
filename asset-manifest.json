@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ecultify-assessment/static/css/main.ffce374c.css",
+    "main.js": "/ecultify-assessment/static/js/main.0d88029e.js",
+    "static/js/453.6a0e1138.chunk.js": "/ecultify-assessment/static/js/453.6a0e1138.chunk.js",
+    "index.html": "/ecultify-assessment/index.html",
+    "static/media/menu.svg": "/ecultify-assessment/static/media/menu.6541412ce6e1426fdabce6a20afab6b4.svg",
+    "static/media/close.svg": "/ecultify-assessment/static/media/close.a32336accebca18f5fe571c24bbca74d.svg",
+    "main.ffce374c.css.map": "/ecultify-assessment/static/css/main.ffce374c.css.map",
+    "main.0d88029e.js.map": "/ecultify-assessment/static/js/main.0d88029e.js.map",
+    "453.6a0e1138.chunk.js.map": "/ecultify-assessment/static/js/453.6a0e1138.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffce374c.css",
+    "static/js/main.0d88029e.js"
+  ]
+}
