@@ -1,7 +1,7 @@
 # Ecultify Assement 
 
-###Checkout the site here: https://kanojiapk.github.io/ecultify-assessment/
-###ref: https://www.figma.com/design/1ZKPnXFZ0tdvb0crxYNNhr/Assignment?node-id=0-1&node-type=CANVAS&t=VWRxvfskEPMD6KM0-0
+1. Checkout the site here: https://kanojiapk.github.io/ecultify-assessment/
+2. ref: https://www.figma.com/design/1ZKPnXFZ0tdvb0crxYNNhr/Assignment?node-id=0-1&node-type=CANVAS&t=VWRxvfskEPMD6KM0-0
 
 #Technology used
 1. React.js
